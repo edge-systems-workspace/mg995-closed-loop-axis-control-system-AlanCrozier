@@ -26,6 +26,7 @@ Servo myservo;
 int trg_pin = 8;
 int ech_pin = 10;
 
+
 /**
  * @brief Initialize hardware pins and serial communication
  *
