@@ -12,5 +12,6 @@ void loop() {
     pressure = analogRead(A0);
 
     Serial.println(pressure);
+
     delay(1000);
 }
